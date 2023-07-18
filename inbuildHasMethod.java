@@ -11,9 +11,7 @@ public class inbuildHasMethod {
 
         //Key -> hashCode
         dataMap.put(hashCode, name);
-
         String outputName = dataMap.get(hashCode);
-        
         System.out.println("Name:" + name + "\nHashCode: "+ hashCode);
     }    
 }
