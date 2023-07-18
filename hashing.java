@@ -3,7 +3,7 @@ public class hashing {
         int hashCode = 0;
         for(int i=0;i<input.length();i++){
             hashCode +=  input.charAt(i);
-
+            
         }        
         return hashCode;
     }
