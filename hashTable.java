@@ -5,7 +5,7 @@ public class hashTable {
         Map<Integer,String> studentData = new Hashtable<>();
         studentData.put(1,"Bharath");
         studentData.put(2, "Bheema");
-        studentData.put(3,"Jaswant");
+        studentData.put(3,"Jaswanth");
         studentData.put(4,"Pandu");
         studentData.put(5,"Ajay");
 
